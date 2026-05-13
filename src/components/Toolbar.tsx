@@ -59,11 +59,8 @@ export default function Toolbar({ onFilterToggle, onRouteToggle, showFilter, sho
 
   const handleCharacterChange = useCallback((c: Character) => {
     setCharacter(c)
-    if (c === 'claire') {
-      setFloor('B3')
-    }
     setShowCharacterPicker(false)
-  }, [setCharacter, setFloor])
+  }, [setCharacter])
 
   const handleModeChange = useCallback((m: GameMode) => {
     setMode(m)

@@ -3,7 +3,7 @@ import { ALL_CATEGORY_IDS } from '../data/categoryIds'
 
 export type Character = 'leon' | 'claire'
 export type GameMode = 'normal' | 'expert'
-export type Floor = '1F' | '2F' | '3F' | 'B1' | 'B1o' | 'B2' | 'B2o' | 'B3'
+export type Floor = '1F' | '2F' | '3F' | 'B1' | 'B2' | 'o_1F' | 'o_2F'
 
 export interface MarkerItem {
   id: string
@@ -132,7 +132,7 @@ export const useMapStore = create<MapStore>((set) => ({
   mode: 'normal',
   setMode: (m) => set({ mode: m }),
 
-  floor: '3F',
+  floor: '1F',
   setFloor: (f) => set({ floor: f }),
 
   activeCategories: new Set(ALL_CATEGORIES),

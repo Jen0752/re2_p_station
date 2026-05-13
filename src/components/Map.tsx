@@ -10,26 +10,24 @@ import MarkerEditModal from './MarkerEditModal'
 // 楼层图片映射
 const BASE_PATH = import.meta.env.PROD ? './' : '/'
 const FLOOR_IMAGES: Record<string, string> = {
-  'B3': `${BASE_PATH}re2_map_sewer/re2_sewer_B3.png`,
-  'B2': `${BASE_PATH}re2_map_sewer/re2_sewer_B2.png`,
-  'B2o': `${BASE_PATH}re2_map_sewer/re2_sewer_B2o.png`,
-  'B1o': `${BASE_PATH}re2_map_sewer/re2_sewer_B1o.png`,
-  'B1': `${BASE_PATH}re2_map_sewer/re2_sewer_B1.png`,
-  '1F': `${BASE_PATH}re2_map_sewer/re2_sewer_1F.png`,
-  '2F': `${BASE_PATH}re2_map_sewer/re2_sewer_2F.png`,
-  '3F': `${BASE_PATH}re2_map_sewer/re2_sewer_3F.png`,
+  'B2': `${BASE_PATH}re2_map_sewer/re2_p_station_B2.png`,
+  'B1': `${BASE_PATH}re2_map_sewer/re2_p_station_B1.png`,
+  '1F': `${BASE_PATH}re2_map_sewer/re2_p_station_1F.png`,
+  '2F': `${BASE_PATH}re2_map_sewer/re2_p_station_2F.png`,
+  '3F': `${BASE_PATH}re2_map_sewer/re2_p_station_3F.png`,
+  'o_1F': `${BASE_PATH}re2_map_sewer/re2_orphanage_1F.png`,
+  'o_2F': `${BASE_PATH}re2_map_sewer/re2_orphanage_2F.png`,
 }
 
 // 图片宽高比 (从实际图片尺寸得出)
 const FLOOR_RATIOS: Record<string, number> = {
-  'B3': 2.302,   // 3106x1349
-  'B2': 0.583,   // 1564x2681
-  'B2o': 1.111,  // 2158x1942
-  'B1o': 1.176,  // 2220x1888
-  'B1': 1.328,   // 2359x1776
-  '1F': 1.000,   // 2048x2048
-  '2F': 1.207,   // 2249x1863
-  '3F': 1.641,   // 2622x1598
+  'B2': 1.443,   // 2459x1704
+  'B1': 1.145,   // 2191x1913
+  '1F': 1.551,   // 2550x1644
+  '2F': 1.471,   // 2483x1688
+  '3F': 1.687,   // 2659x1576
+  'o_1F': 1.118, // 2166x1936
+  'o_2F': 1.138, // 2184x1919
 }
 
 // 根据宽高比获取图片坐标
