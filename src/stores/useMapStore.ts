@@ -3,7 +3,7 @@ import { ALL_CATEGORY_IDS } from '../data/categoryIds'
 
 export type Character = 'leon' | 'claire'
 export type GameMode = 'normal' | 'expert'
-export type Floor = '1F' | '2F' | '3F' | 'B1' | 'B2' | 'o_1F' | 'o_2F'
+export type Floor = '1F' | '2F' | '3F' | 'B1' | 'B2' | 'B3' | 'o_1F' | 'o_2F'
 
 export interface MarkerItem {
   id: string

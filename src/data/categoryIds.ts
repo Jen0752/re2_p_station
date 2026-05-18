@@ -6,7 +6,7 @@ export const ALL_CATEGORY_IDS = [
   // checkpoint
   'lnk ribbon', 'typewriter',
   // collection
-  'Fanny pack', 'document', 'locked container', 'map', 'raccoon toy',
+  'Fanny pack', 'document', 'locked container', 'map', 'plank', 'raccoon toy',
   // door
   'keygate',
   // enemy

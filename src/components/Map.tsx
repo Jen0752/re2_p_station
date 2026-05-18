@@ -10,8 +10,9 @@ import MarkerEditModal from './MarkerEditModal'
 // 楼层图片映射
 const BASE_PATH = import.meta.env.PROD ? './' : '/'
 const FLOOR_IMAGES: Record<string, string> = {
+  'B1': `${BASE_PATH}re2_p_station_map/re2_p_station_B1.png`,
   'B2': `${BASE_PATH}re2_map_sewer/re2_p_station_B2.png`,
-  'B1': `${BASE_PATH}re2_map_sewer/re2_p_station_B1.png`,
+  'B3': `${BASE_PATH}re2_map_sewer/re2_p_station_B1.png`,
   '1F': `${BASE_PATH}re2_map_sewer/re2_p_station_1F.png`,
   '2F': `${BASE_PATH}re2_map_sewer/re2_p_station_2F.png`,
   '3F': `${BASE_PATH}re2_map_sewer/re2_p_station_3F.png`,
@@ -21,8 +22,9 @@ const FLOOR_IMAGES: Record<string, string> = {
 
 // 图片宽高比 (从实际图片尺寸得出)
 const FLOOR_RATIOS: Record<string, number> = {
+  'B1': 1.620,   // 2606x1608
   'B2': 1.443,   // 2459x1704
-  'B1': 1.145,   // 2191x1913
+  'B3': 1.145,   // 2191x1913
   '1F': 1.551,   // 2550x1644
   '2F': 1.471,   // 2483x1688
   '3F': 1.687,   // 2659x1576
@@ -81,6 +83,9 @@ export default function Map() {
 
   // 当前可见的标点 ID 集合
   const visibleMarkerIdsRef = useRef<Set<string>>(new Set())
+
+  // 上次楼层变化的时间戳（用于在楼层切换时强制显示所有标记）
+  const lastFloorChangeRef = useRef<number>(0)
 
   // 标点数据快照（用于在 RAF 中访问最新值）
   const markerDataRef = useRef<{ floor: string; character: string; mode: string; activeCategories: Set<string> }>({
@@ -192,7 +197,6 @@ export default function Map() {
       map.fitBounds([[minX, minY], [maxX, maxY]], { padding: 0, animate: false })
 
       setLoadingProgress(70)
-      console.log('Floor images loaded, ready for markers')
 
       // 等待所有楼层图片预加载完成后，标记地图加载完成
       // 标点将在独立 useEffect 中加载
@@ -321,9 +325,6 @@ export default function Map() {
     })
       .setLngLat(tempMarker.coordinates)
       .addTo(map)
-
-    tempMarkerRef.current = marker
-    console.log('temp marker at', tempMarker.coordinates)
   }, [tempMarker])
 
   // 监听自定义标点变化，更新地图（标记 Map + 视口裁剪）
@@ -339,6 +340,9 @@ export default function Map() {
       activeCategories: activeCategories
     }
 
+    // 楼层切换时更新时间戳（用于禁用视口裁剪）
+    lastFloorChangeRef.current = Date.now()
+
     // 辅助函数：通过标点 name 找到对应的子分类 id
     const getSubCategoryId = (marker: CustomMarker): string | null => {
       const cat = CATEGORIES.find(c => c.id === marker.category)
@@ -349,17 +353,19 @@ export default function Map() {
 
     // 过滤出应该在当前楼层显示的标点
     const getFloorMarkers = () => {
-      const data = markerDataRef.current
-      return customMarkers.filter(m => {
-        if (m.floor !== data.floor) return false
-        if (data.character === 'leon' && m.character !== 'leon' && m.character !== 'both') return false
-        if (data.character === 'claire' && m.character !== 'claire' && m.character !== 'both') return false
-        if (data.mode === 'normal' && m.mode !== 'normal' && m.mode !== 'both') return false
-        if (data.mode === 'expert' && m.mode !== 'expert' && m.mode !== 'both') return false
+      // 直接从 store 读取最新状态，不用 ref 快照
+      const state = useMapStore.getState()
+      const filtered = customMarkers.filter(m => {
+        if (m.floor !== state.floor) return false
+        if (state.character === 'leon' && m.character !== 'leon' && m.character !== 'both') return false
+        if (state.character === 'claire' && m.character !== 'claire' && m.character !== 'both') return false
+        if (state.mode === 'normal' && m.mode !== 'normal' && m.mode !== 'both') return false
+        if (state.mode === 'expert' && m.mode !== 'expert' && m.mode !== 'both') return false
         const subCategoryId = getSubCategoryId(m)
-        if (subCategoryId && !data.activeCategories.has(subCategoryId)) return false
+        if (subCategoryId && !state.activeCategories.has(subCategoryId)) return false
         return true
       })
+      return filtered
     }
 
     // 创建单个标点
@@ -415,12 +421,18 @@ export default function Map() {
 
         const bounds = map.getBounds()
         const floorMarkers = getFloorMarkers()
+
+        // 检查是否是楼层切换后的第一次调用（2秒内）
+        const now = Date.now()
+        const isFloorJustChanged = now - lastFloorChangeRef.current < 2000
+
         const newVisibleIds = new Set<string>()
 
         // 需要创建的新标点
         const toCreate: CustomMarker[] = []
         floorMarkers.forEach(marker => {
-          const isVisible = bounds.contains(marker.coordinates)
+          // 楼层刚切换时，显示所有该楼层的标记，不做视口裁剪
+          const isVisible = isFloorJustChanged ? true : bounds.contains(marker.coordinates)
           const existingMarker = markerMapRef.current[marker.id]
 
           if (isVisible) {
@@ -430,41 +442,27 @@ export default function Map() {
             }
           } else {
             if (existingMarker) {
+              existingMarker.getElement().remove()
               existingMarker.remove()
               delete markerMapRef.current[marker.id]
             }
           }
         })
 
-        // 分批创建标点，每帧10个
-        const BATCH_SIZE = 10
-        let index = 0
+        // 立即创建所有标点（不做分批）
+        toCreate.forEach(marker => {
+          const wrapper = createMarkerElement(marker, 0)
+          setupMarkerEvents(wrapper, marker)
 
-        const processBatch = () => {
-          const batch = toCreate.slice(index, index + BATCH_SIZE)
-          batch.forEach(marker => {
-            const wrapper = createMarkerElement(marker, 0)
-            setupMarkerEvents(wrapper, marker)
-
-            const mapMarker = new maplibregl.Marker({
-              element: wrapper,
-              anchor: 'bottom',
-            })
-              .setLngLat(marker.coordinates)
-              .addTo(map)
-
-            markerMapRef.current[marker.id] = mapMarker
+          const mapMarker = new maplibregl.Marker({
+            element: wrapper,
+            anchor: 'bottom',
           })
+            .setLngLat(marker.coordinates)
+            .addTo(map)
 
-          index += BATCH_SIZE
-          if (index < toCreate.length) {
-            requestAnimationFrame(processBatch)
-          }
-        }
-
-        if (toCreate.length > 0) {
-          requestAnimationFrame(processBatch)
-        }
+          markerMapRef.current[marker.id] = mapMarker
+        })
 
         visibleMarkerIdsRef.current = newVisibleIds
       })
@@ -565,10 +563,22 @@ export default function Map() {
     const currentFloorMarkers = getFloorMarkers()
     const currentFloorMarkerIds = new Set(currentFloorMarkers.map(m => m.id))
 
+    // 楼层切换时，清空所有标记重新创建（避免视口裁剪导致的遗漏）
+    const isFloorSwitch = Object.keys(markerMapRef.current).length > 0 && !currentFloorMarkerIds.has(Object.keys(markerMapRef.current)[0])
+    if (isFloorSwitch) {
+      Object.values(markerMapRef.current).forEach(marker => {
+        marker.getElement().remove()
+        marker.remove()
+      })
+      markerMapRef.current = {}
+    }
+
     // 移除不属于当前楼层或不符合过滤条件的标点
     Object.keys(markerMapRef.current).forEach(markerId => {
       if (!currentFloorMarkerIds.has(markerId)) {
-        markerMapRef.current[markerId].remove()
+        const marker = markerMapRef.current[markerId]
+        marker.remove()
+        marker.getElement().remove()
         delete markerMapRef.current[markerId]
       }
     })
@@ -873,6 +883,17 @@ export default function Map() {
         const addRouteLayer = () => {
           // 如果源不存在，则添加
           if (!map.getSource(`route-source-${route.id}`)) {
+            if (!map.isStyleLoaded()) {
+              // 延迟重试，使用计数器防止无限重试
+              const retryCount = (addRouteLayer as any)._retryCount || 0
+              ;(addRouteLayer as any)._retryCount = retryCount + 1
+              if (retryCount > 20) return
+              setTimeout(() => {
+                ;(addRouteLayer as any)._retryCount = 0
+                addRouteLayer()
+              }, 50)
+              return
+            }
             map.addSource(`route-source-${route.id}`, {
               type: 'geojson',
               data: {
@@ -909,11 +930,7 @@ export default function Map() {
           }
         }
 
-        if (map.isStyleLoaded()) {
-          addRouteLayer()
-        } else {
-          map.once('load', addRouteLayer)
-        }
+        addRouteLayer()
       }
 
       // 添加路径点标记

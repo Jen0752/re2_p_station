@@ -1,6 +1,6 @@
 import type { MarkerItem } from '../stores/useMapStore'
 
-export const FLOOR_ORDER = ['1F', '2F', '3F', 'B1', 'B2', 'o_1F', 'o_2F'] as const
+export const FLOOR_ORDER = ['1F', '2F', '3F', 'B1', 'B2', 'B3', 'o_1F', 'o_2F'] as const
 
 export interface SubCategory {
   id: string
@@ -43,6 +43,7 @@ export const CATEGORIES: Array<{ id: string; name: string; icon: string; subCate
       { id: 'document', name: '文件', icon: 'document.png' },
       { id: 'locked container', name: '锁闭容器', icon: 'locked container.png' },
       { id: 'map', name: '地图', icon: 'map.png' },
+      { id: 'plank', name: '木板', icon: 'plank.png' },
       { id: 'raccoon toy', name: '浣熊玩具', icon: 'raccoon toy.png' },
     ],
   },
