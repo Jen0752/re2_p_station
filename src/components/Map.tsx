@@ -12,12 +12,12 @@ const BASE_PATH = import.meta.env.PROD ? './' : '/'
 const FLOOR_IMAGES: Record<string, string> = {
   'B1': `${BASE_PATH}re2_p_station_map/re2_p_station_B1.webp`,
   'B2': `${BASE_PATH}re2_p_station_map/re2_p_station_B2.webp`,
-  'B3': `${BASE_PATH}re2_p_station_map/re2_p_station_B1.webp`,
+  'B3': `${BASE_PATH}re2_p_station_map/re2_p_station_B3.webp`,
   '1F': `${BASE_PATH}re2_p_station_map/re2_p_station_1F.webp`,
   '2F': `${BASE_PATH}re2_p_station_map/re2_p_station_2F.webp`,
   '3F': `${BASE_PATH}re2_p_station_map/re2_p_station_3F.webp`,
-  'o_1F': `${BASE_PATH}re2_map_sewer/re2_orphanage_1F.png`,
-  'o_2F': `${BASE_PATH}re2_map_sewer/re2_orphanage_2F.png`,
+  'o_1F': `${BASE_PATH}re2_p_station_map/re2_orphanage_1F.webp`,
+  'o_2F': `${BASE_PATH}re2_p_station_map/re2_orphanage_2F.webp`,
 }
 
 // 图片宽高比 (从实际图片尺寸得出)
