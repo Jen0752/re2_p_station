@@ -6,7 +6,7 @@
       "id": "custom_1778747308017",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.48332870219951474,
         0.26475705627966306
@@ -21,7 +21,7 @@
       "id": "custom_1778747313892",
       "name": "墨带",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.webp",
       "coordinates": [
         0.49300055145158694,
         0.2662450171238504
@@ -36,7 +36,7 @@
       "id": "custom_1778747341153",
       "name": "急救喷雾",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/first aid spray.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/first aid spray.webp",
       "coordinates": [
         0.5279680066017249,
         0.21788620319350116
@@ -51,7 +51,7 @@
       "id": "custom_1778747377851",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.5621761670288095,
         0.20060562769154444
@@ -66,7 +66,7 @@
       "id": "custom_1778747398441",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.49224125679475605,
         0.14815468983005076
@@ -81,7 +81,7 @@
       "id": "custom_1778747423478",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.6284432517236098,
         0.35409406596377835
@@ -96,7 +96,7 @@
       "id": "custom_1778747497068",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.6392310837453579,
         0.3540940677667095
@@ -111,7 +111,7 @@
       "id": "custom_1778747557694",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.649224938823977,
         0.3541461035034956
@@ -126,7 +126,7 @@
       "id": "custom_1778747659192",
       "name": "木板",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.webp",
       "coordinates": [
         0.6296401384437047,
         0.37385065848559407
@@ -141,7 +141,7 @@
       "id": "custom_1778747673074",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.6410545926364648,
         0.37445140632330265
@@ -156,7 +156,7 @@
       "id": "custom_1778747710352",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.7011106685801849,
         0.4352518758861095
@@ -171,7 +171,7 @@
       "id": "custom_1778747736158",
       "name": "急救喷雾",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/first aid spray.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/first aid spray.webp",
       "coordinates": [
         0.8237373011462807,
         0.3426234154333514
@@ -186,7 +186,7 @@
       "id": "custom_1778747805208",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.8188964819192961,
         0.19593989585978022
@@ -201,7 +201,7 @@
       "id": "custom_1778747817399",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.7900380863144107,
         0.17889979101968834
@@ -216,7 +216,7 @@
       "id": "custom_1778748000302",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.8424256262829317,
         0.2958042495938713
@@ -231,7 +231,7 @@
       "id": "custom_1778748040118",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.8443788423731178,
         0.19908148964471195
@@ -246,7 +246,7 @@
       "id": "custom_1778748061255",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.7739568721418664,
         0.24768905417106168
@@ -261,7 +261,7 @@
       "id": "custom_1778748121469",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.6072788049691837,
         0.24647305390621455
@@ -276,7 +276,7 @@
       "id": "custom_1778748161144",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.5621897370862428,
         0.17652180694044262
@@ -291,7 +291,7 @@
       "id": "custom_1778748199862",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.41803129313538534,
         0.24779696556623776
@@ -306,7 +306,7 @@
       "id": "custom_1778748217827",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.3669504118040834,
         0.2502763479860306
@@ -321,7 +321,7 @@
       "id": "custom_1778748263058",
       "name": "木板",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.webp",
       "coordinates": [
         0.3776797225973212,
         0.19341143390244042
@@ -336,7 +336,7 @@
       "id": "custom_1778748281023",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.36117946701318715,
         0.20767058788244697
@@ -351,7 +351,7 @@
       "id": "custom_1778748418711",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.1467909719589784,
         0.24327691534227824
@@ -366,7 +366,7 @@
       "id": "custom_1778748463786",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.1272690277829156,
         0.2432769149218501
@@ -381,7 +381,7 @@
       "id": "custom_1778748513695",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.12287467172470201,
         0.5341348414974902
@@ -396,7 +396,7 @@
       "id": "custom_1778748583178",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.21287590667742506,
         0.49685160012900553
@@ -411,7 +411,7 @@
       "id": "custom_1778748603516",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.14437219045964866,
         0.40704896617125996
@@ -426,7 +426,7 @@
       "id": "custom_1778748643506",
       "name": "地图",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/map.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/map.webp",
       "coordinates": [
         0.17590194689191208,
         0.417703572547353
@@ -441,7 +441,7 @@
       "id": "custom_1778748665396",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.1541572872837378,
         0.43792554006968487
@@ -456,7 +456,7 @@
       "id": "custom_1778748687797",
       "name": "路标",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/street sign.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/street sign.webp",
       "coordinates": [
         0.22808912996686104,
         0.4335767344526289
@@ -471,7 +471,7 @@
       "id": "custom_1778748913740",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.24116023854284663,
         0.5244431509519529
@@ -486,7 +486,7 @@
       "id": "custom_1778748957347",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.1229451073509722,
         0.5438559806369057
@@ -501,7 +501,7 @@
       "id": "custom_1778749300664",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.28199398307995693,
         0.34278337256036195
@@ -516,7 +516,7 @@
       "id": "custom_1778749361987",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.22368975971804161,
         0.31414804895298687
@@ -531,7 +531,7 @@
       "id": "custom_1778749529308",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.2638157891752826,
         0.41218135618157703
@@ -546,7 +546,7 @@
       "id": "custom_1778749584683",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.281625601880819,
         0.4217628258811459
@@ -561,7 +561,7 @@
       "id": "custom_1778749681435",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.2902372424973123,
         0.43800096018262025
@@ -576,7 +576,7 @@
       "id": "custom_1778749699478",
       "name": "飞刀",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/dagger.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/dagger.webp",
       "coordinates": [
         0.28925675865829703,
         0.4493782954850474
@@ -591,7 +591,7 @@
       "id": "custom_1778749716770",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.28894838135445866,
         0.4737393109485595
@@ -606,7 +606,7 @@
       "id": "custom_1778749754416",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.28767735157680363,
         0.48463372070393973
@@ -621,7 +621,7 @@
       "id": "custom_1778749771365",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.2927655771217985,
         0.5276506717816147
@@ -636,7 +636,7 @@
       "id": "custom_1778749814316",
       "name": "武器",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.webp",
       "coordinates": [
         0.2836684466209931,
         0.5290383104464809
@@ -651,7 +651,7 @@
       "id": "custom_1778749835875",
       "name": "霰弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.webp",
       "coordinates": [
         0.27811765513067144,
         0.5284215822436664
@@ -664,7 +664,7 @@
       "id": "custom_1778749855378",
       "name": "腰包",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/Fanny pack.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/Fanny pack.webp",
       "coordinates": [
         0.2740616538917493,
         0.4451874007185097
@@ -679,7 +679,7 @@
       "id": "custom_1778749909782",
       "name": "火弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.webp",
       "coordinates": [
         0.27089164654637443,
         0.48331199271446224
@@ -694,7 +694,7 @@
       "id": "custom_1778749949376",
       "name": "霰弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.webp",
       "coordinates": [
         0.27063689179223616,
         0.49013697904590003
@@ -709,7 +709,7 @@
       "id": "custom_1778749989947",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.2895126852308181,
         0.3068823130338103
@@ -724,7 +724,7 @@
       "id": "custom_1778750002869",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.2887914728120222,
         0.3008722945540967
@@ -739,7 +739,7 @@
       "id": "custom_1778750020353",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.25321166015265817,
         0.27947660235265914
@@ -754,7 +754,7 @@
       "id": "custom_1778750043728",
       "name": "腰包",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/Fanny pack.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/Fanny pack.webp",
       "coordinates": [
         0.2570581263882161,
         0.22946747997265504
@@ -767,7 +767,7 @@
       "id": "custom_1778750054560",
       "name": "锁闭容器",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.webp",
       "coordinates": [
         0.2644760817132692,
         0.22754587805381732
@@ -782,7 +782,7 @@
       "id": "custom_1778750126068",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.3121916724940945,
         0.2852379530749829
@@ -797,7 +797,7 @@
       "id": "custom_1778750146336",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.36242027531577037,
         0.28484768422548257
@@ -812,7 +812,7 @@
       "id": "custom_1778753781977",
       "name": "锁闭容器",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.webp",
       "coordinates": [
         0.36878236746974835,
         0.296451434535129
@@ -827,7 +827,7 @@
       "id": "custom_1778753798235",
       "name": "武器配件",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon accessories.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon accessories.webp",
       "coordinates": [
         0.3621705630339136,
         0.2978774907066821
@@ -842,7 +842,7 @@
       "id": "custom_1778753845753",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.40894415171536025,
         0.32236740026527855
@@ -857,7 +857,7 @@
       "id": "custom_1778753959865",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.38436961909258116,
         0.3932819289273084
@@ -872,7 +872,7 @@
       "id": "custom_1778753984848",
       "name": "红草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.webp",
       "coordinates": [
         0.34901042398243476,
         0.38171009429869684
@@ -885,7 +885,7 @@
       "id": "custom_1778753991743",
       "name": "打字机",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.webp",
       "coordinates": [
         0.3605825241997991,
         0.43346178269645463
@@ -900,7 +900,7 @@
       "id": "custom_1778755087284",
       "name": "浣熊玩具",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.webp",
       "coordinates": [
         0.3371168765336279,
         0.33092242007064954
@@ -917,7 +917,7 @@
       "id": "custom_1778755190315",
       "name": "墨带",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.webp",
       "coordinates": [
         0.36033995490240045,
         0.47839709740375724
@@ -932,7 +932,7 @@
       "id": "custom_1778755223273",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.3465029826584214,
         0.47742269649853597
@@ -947,7 +947,7 @@
       "id": "custom_1778755254430",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.3607297287684048,
         0.4766431760628649
@@ -962,7 +962,7 @@
       "id": "custom_1778755326974",
       "name": "木板",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.webp",
       "coordinates": [
         0.3858741893421893,
         0.5004613569230116
@@ -977,7 +977,7 @@
       "id": "custom_1778755336912",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.3191119489491996,
         0.5393746393534542
@@ -992,7 +992,7 @@
       "id": "custom_1778755399252",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.31911194894848904,
         0.5347336186849674
@@ -1007,7 +1007,7 @@
       "id": "custom_1778755482245",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.3129515786772288,
         0.5271498265859123
@@ -1022,7 +1022,7 @@
       "id": "custom_1778755541779",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.34856708419425786,
         0.4512507077911465
@@ -1037,7 +1037,7 @@
       "id": "custom_1778755600786",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.35471200889293186,
         0.45137961423294826
@@ -1052,7 +1052,7 @@
       "id": "custom_1778755697656",
       "name": "锁闭容器",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.webp",
       "coordinates": [
         0.2649750410853926,
         0.4928463177391791
@@ -1067,7 +1067,7 @@
       "id": "custom_1778755743788",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.26472391046846155,
         0.5046187024163515
@@ -1082,7 +1082,7 @@
       "id": "custom_1778755773289",
       "name": "霰弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.webp",
       "coordinates": [
         0.26392426438255256,
         0.5216146228412697
@@ -1097,7 +1097,7 @@
       "id": "custom_1778755806683",
       "name": "锁闭容器",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.webp",
       "coordinates": [
         0.2322389708092487,
         0.5324713610508951
@@ -1112,7 +1112,7 @@
       "id": "custom_1778755829011",
       "name": "霰弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.webp",
       "coordinates": [
         0.23268387304503335,
         0.5367924547534244
@@ -1127,7 +1127,7 @@
       "id": "custom_1778755851027",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.20789965829465018,
         0.5085530958695301
@@ -1142,7 +1142,7 @@
       "id": "custom_1778755959895",
       "name": "红草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.webp",
       "coordinates": [
         0.18307199910515237,
         0.456813943386436
@@ -1155,7 +1155,7 @@
       "id": "custom_1778755969695",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.22316508827131543,
         0.533971332085315
@@ -1170,7 +1170,7 @@
       "id": "custom_1778756195278",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.3474167289210186,
         0.44321793062024994
@@ -1183,7 +1183,7 @@
       "id": "custom_1778756209437",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.2769854068250197,
         0.5216198184149334
@@ -1198,7 +1198,7 @@
       "id": "custom_1778756244135",
       "name": "锁闭容器",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.webp",
       "coordinates": [
         0.25064150373685834,
         0.45604718919190645
@@ -1213,7 +1213,7 @@
       "id": "custom_1778756326883",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.07442603988496899,
         0.3145194799942175
@@ -1228,7 +1228,7 @@
       "id": "custom_1778756374485",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.10666461038130137,
         0.3931486279143712
@@ -1243,7 +1243,7 @@
       "id": "custom_1778756386659",
       "name": "木板",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.webp",
       "coordinates": [
         0.1098098367704381,
         0.3636627762597868
@@ -1258,7 +1258,7 @@
       "id": "custom_1778756451662",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.10039265126624741,
         0.26296614621767844
@@ -1273,7 +1273,7 @@
       "id": "custom_1778756463860",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.19789466935100108,
         0.2944180351450427
@@ -1288,7 +1288,7 @@
       "id": "custom_1778756533621",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.1463915872170105,
         0.22758267695819256
@@ -1303,7 +1303,7 @@
       "id": "custom_1778756565419",
       "name": "腰包",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/Fanny pack.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/Fanny pack.webp",
       "coordinates": [
         0.1668355587517567,
         0.22876212737857315
@@ -1318,7 +1318,7 @@
       "id": "custom_1778756585168",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.11297355682529542,
         0.20281419597988304
@@ -1333,7 +1333,7 @@
       "id": "custom_1778756713963",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.39486700314790824,
         0.34318707615055644
@@ -1348,7 +1348,7 @@
       "id": "custom_1778758708336",
       "name": "飞刀",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/dagger.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/dagger.webp",
       "coordinates": [
         0.22160853991482554,
         0.26055289033367046
@@ -1363,7 +1363,7 @@
       "id": "custom_1778758717082",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.33877308860922994,
         0.2828689260050794
@@ -1378,7 +1378,7 @@
       "id": "custom_1778758730122",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.3518165238327242,
         0.30527836661467234
@@ -1393,7 +1393,7 @@
       "id": "custom_1778758770864",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.31368065385603927,
         0.2895524479965559
@@ -1408,7 +1408,7 @@
       "id": "custom_1778758794537",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.34226114708280875,
         0.3224673732802614
@@ -1423,7 +1423,7 @@
       "id": "custom_1778758854397",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.2875893450507192,
         0.2420024503043834
@@ -1438,7 +1438,7 @@
       "id": "custom_1778758907723",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.24888369586008707,
         0.44112343980175694
@@ -1453,7 +1453,7 @@
       "id": "custom_1778758959193",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.273635969970627,
         0.39427217108881507
@@ -1468,7 +1468,7 @@
       "id": "custom_1778759046809",
       "name": "地图",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/map.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/map.webp",
       "coordinates": [
         0.25224036604299727,
         0.1597750258148949
@@ -1483,7 +1483,7 @@
       "id": "custom_1778759090557",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.20096779835648704,
         0.16905708944371156
@@ -1498,7 +1498,7 @@
       "id": "custom_1778759145960",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.3636164549400007,
         0.1373109491642026
@@ -1513,7 +1513,7 @@
       "id": "custom_1778759794562",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.11202854555105546,
         0.21481464107897352
@@ -1528,7 +1528,7 @@
       "id": "custom_1778759847855",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.10900891347048969,
         0.35242185847084784
@@ -1543,7 +1543,7 @@
       "id": "custom_1778759943344",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.739705354387155,
         0.29603763971890373
@@ -1558,7 +1558,7 @@
       "id": "custom_1778759958441",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.731408850229144,
         0.21482005108087776
@@ -1573,7 +1573,7 @@
       "id": "custom_1778760086677",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.6237154427030873,
         0.24082814947134068
@@ -1586,7 +1586,7 @@
       "id": "custom_1778760097687",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.6494987718043035,
         0.2278088777737537
@@ -1599,7 +1599,7 @@
       "id": "custom_1778760104306",
       "name": "锁闭容器",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.webp",
       "coordinates": [
         0.6561728761291192,
         0.2163676429558734
@@ -1614,7 +1614,7 @@
       "id": "custom_1778760155902",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.7224991090654953,
         0.297458312123112
@@ -1629,7 +1629,7 @@
       "id": "custom_1778760314556",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.7572871058882242,
         0.35485375995823176
@@ -1644,7 +1644,7 @@
       "id": "custom_1778760367671",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.8679890638053109,
         0.266501136444802
@@ -1659,7 +1659,7 @@
       "id": "custom_1778760415338",
       "name": "暴君",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Tyrant.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Tyrant.webp",
       "coordinates": [
         0.8629699231461245,
         0.26644335344876424
@@ -1674,7 +1674,7 @@
       "id": "custom_1778760795110",
       "name": "木板",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.webp",
       "coordinates": [
         0.68368012559921,
         0.3519863958817382
@@ -1689,7 +1689,7 @@
       "id": "custom_1778760838264",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.8495653797660054,
         0.2161411751334441
@@ -1704,7 +1704,7 @@
       "id": "custom_1778760849051",
       "name": "木板",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.webp",
       "coordinates": [
         0.9116596384013462,
         0.20367351398381572
@@ -1719,7 +1719,7 @@
       "id": "custom_1778760862160",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.8703485518080356,
         0.2271047112340625
@@ -1734,7 +1734,7 @@
       "id": "custom_1778761002172",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.5760784475918683,
         0.22861237956254854
@@ -1749,7 +1749,7 @@
       "id": "custom_1778761035814",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.7057637809717789,
         0.17664190436313731
@@ -1764,7 +1764,7 @@
       "id": "custom_1778761062861",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.6479163586965626,
         0.2560455586300634
@@ -1779,7 +1779,7 @@
       "id": "custom_1778761248438",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.7237471262535564,
         0.19629798401312826
@@ -1792,7 +1792,7 @@
       "id": "custom_1778761256773",
       "name": "闪光弹",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/flashbang.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/flashbang.webp",
       "coordinates": [
         0.729183943251769,
         0.22975508500802277
@@ -1805,7 +1805,7 @@
       "id": "custom_1778761305537",
       "name": "墨带",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.webp",
       "coordinates": [
         0.7482128027494355,
         0.21156279535229316
@@ -1818,7 +1818,7 @@
       "id": "custom_1778761313871",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.7607593035159255,
         0.2132356504928481
@@ -1833,7 +1833,7 @@
       "id": "custom_1778761341027",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.7068093502202828,
         0.27931326852167615
@@ -1846,7 +1846,7 @@
       "id": "custom_1778761394113",
       "name": "高级火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.webp",
       "coordinates": [
         0.6139809208252132,
         0.217743572971969
@@ -1861,7 +1861,7 @@
       "id": "custom_1778761406040",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.6331306625685897,
         0.21408261937703799
@@ -1876,7 +1876,7 @@
       "id": "custom_1778761458673",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.670303690662081,
         0.2543530592978698
@@ -1891,7 +1891,7 @@
       "id": "custom_1778761787422",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.2177750239679881,
         0.36335377091957355
@@ -1906,7 +1906,7 @@
       "id": "custom_1778761962075",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.1765844487342747,
         0.3972403604538357
@@ -1921,7 +1921,7 @@
       "id": "custom_1778761996034",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.1444777715675798,
         0.37356328131706107
@@ -1936,7 +1936,7 @@
       "id": "custom_1778762023835",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.19208315017516497,
         0.3995033441314604
@@ -1949,7 +1949,7 @@
       "id": "custom_1778762029065",
       "name": "闪光弹",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/flashbang.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/flashbang.webp",
       "coordinates": [
         0.2071914439842999,
         0.3869609060740373
@@ -1962,7 +1962,7 @@
       "id": "custom_1778762040845",
       "name": "木板",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.webp",
       "coordinates": [
         0.17184373771345918,
         0.34847831216428915
@@ -1977,7 +1977,7 @@
       "id": "custom_1778762097481",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.2004112638223603,
         0.3367526551543847
@@ -1992,7 +1992,7 @@
       "id": "custom_1778762363855",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.10118318832385853,
         0.48405752067554886
@@ -2007,7 +2007,7 @@
       "id": "custom_1778762377940",
       "name": "霰弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.webp",
       "coordinates": [
         0.11938938364139062,
         0.42129602487959517
@@ -2022,7 +2022,7 @@
       "id": "custom_1778762397694",
       "name": "红草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.webp",
       "coordinates": [
         0.11277662878038086,
         0.2988978242964464
@@ -2037,7 +2037,7 @@
       "id": "custom_1778762433407",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.11333834765912343,
         0.40471204669572103
@@ -2052,7 +2052,7 @@
       "id": "custom_1778762465796",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.10060339174478372,
         0.37168151602688226
@@ -2067,7 +2067,7 @@
       "id": "custom_1778762489638",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.14333875374595095,
         0.3866122108272805
@@ -2082,7 +2082,7 @@
       "id": "custom_1778762571968",
       "name": "武器",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.webp",
       "coordinates": [
         0.1752847321411366,
         0.4419535494919131
@@ -2097,7 +2097,7 @@
       "id": "custom_1778762607393",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.15618229827001073,
         0.44354537192772625
@@ -2112,7 +2112,7 @@
       "id": "custom_1778762620452",
       "name": "霰弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.webp",
       "coordinates": [
         0.16838414647060063,
         0.36273452869788514
@@ -2125,7 +2125,7 @@
       "id": "custom_1778762629213",
       "name": "闪光弹",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/flashbang.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/flashbang.webp",
       "coordinates": [
         0.18748658034255072,
         0.35517329762073757
@@ -2138,7 +2138,7 @@
       "id": "custom_1778762641479",
       "name": "急救喷雾",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/first aid spray.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/first aid spray.webp",
       "coordinates": [
         0.19231208915289244,
         0.30093835455893725
@@ -2151,7 +2151,7 @@
       "id": "custom_1778762646502",
       "name": "高级火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.webp",
       "coordinates": [
         0.1843527417059363,
         0.28581579390682066
@@ -2164,7 +2164,7 @@
       "id": "custom_1778762655756",
       "name": "浣熊玩具",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.webp",
       "coordinates": [
         0.19509786075852276,
         0.26591765761837394
@@ -2179,7 +2179,7 @@
       "id": "custom_1778762802270",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.17719591771364662,
         0.4047048896573955
@@ -2194,7 +2194,7 @@
       "id": "custom_1778762834363",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.10582758552408222,
         0.17363965679818705
@@ -2209,7 +2209,7 @@
       "id": "custom_1778762933077",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.14902479446834604,
         0.1836487504639024
@@ -2224,7 +2224,7 @@
       "id": "custom_1778763200392",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.11233239746655954,
         0.24994589550264834
@@ -2239,7 +2239,7 @@
       "id": "custom_1778763394619",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.48635187438688376,
         0.39614669450834583
@@ -2254,7 +2254,7 @@
       "id": "custom_1778763496472",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.604819521868734,
         0.5998569747755056
@@ -2269,7 +2269,7 @@
       "id": "custom_1778763619857",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.4143100894386009,
         0.3584585818181836
@@ -2284,7 +2284,7 @@
       "id": "custom_1778764458803",
       "name": "手雷",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/grenade.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/grenade.webp",
       "coordinates": [
         0.6390371144914582,
         0.5027825403329018
@@ -2299,7 +2299,7 @@
       "id": "custom_1778764528976",
       "name": "红草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.webp",
       "coordinates": [
         0.09052532858510176,
         0.06409597854788274
@@ -2314,7 +2314,7 @@
       "id": "custom_1778764537653",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.05353565514670322,
         0.06409597793346222
@@ -2327,7 +2327,7 @@
       "id": "custom_1778764546340",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.3664101807972031,
         0.6804354643070383
@@ -2340,7 +2340,7 @@
       "id": "custom_1778764550623",
       "name": "手雷",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/grenade.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/grenade.webp",
       "coordinates": [
         0.27547723359759857,
         0.7790665729236963
@@ -2353,7 +2353,7 @@
       "id": "custom_1778764558516",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.24303783128218015,
         0.7882997744023186
@@ -2366,7 +2366,7 @@
       "id": "custom_1778764572731",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.7813553285813555,
         0.12065405512522887
@@ -2379,7 +2379,7 @@
       "id": "custom_1778764579895",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.9139645498696893,
         0.286024442612117
@@ -2392,7 +2392,7 @@
       "id": "custom_1778764778535",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.5474764479728265,
         0.4093760257377852
@@ -2407,7 +2407,7 @@
       "id": "custom_1778764800792",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.43666097871079046,
         0.4056948762437287
@@ -2422,7 +2422,7 @@
       "id": "custom_1778764825248",
       "name": "锁闭容器",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.webp",
       "coordinates": [
         0.5101909871858368,
         0.25524208675463456
@@ -2437,7 +2437,7 @@
       "id": "custom_1778764861879",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.32642661283131247,
         0.5281976706850031
@@ -2452,7 +2452,7 @@
       "id": "custom_1778764872439",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.3415240165255966,
         0.559047497444098
@@ -2467,7 +2467,7 @@
       "id": "custom_1778764946646",
       "name": "打字机",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.webp",
       "coordinates": [
         0.3295891871166532,
         0.10271486967712917
@@ -2480,7 +2480,7 @@
       "id": "custom_1778764960894",
       "name": "腰包",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/Fanny pack.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/Fanny pack.webp",
       "coordinates": [
         0.3167634359676299,
         0.14540462301181378
@@ -2495,7 +2495,7 @@
       "id": "custom_1778764990582",
       "name": "墨带",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.webp",
       "coordinates": [
         0.32101123111377206,
         0.14469665952884725
@@ -2510,7 +2510,7 @@
       "id": "custom_1778765300554",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.3466115832772516,
         0.18517531158730094
@@ -2525,7 +2525,7 @@
       "id": "custom_1778765334697",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.34050054603392255,
         0.12537837588801892
@@ -2540,7 +2540,7 @@
       "id": "custom_1778765355053",
       "name": "地图",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/map.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/map.webp",
       "coordinates": [
         0.3220934339304904,
         0.12785625011527202
@@ -2555,7 +2555,7 @@
       "id": "custom_1778765409137",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.11954383911267996,
         0.24786143674518257
@@ -2570,7 +2570,7 @@
       "id": "custom_1778765461412",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.10608715805014413,
         0.08698027499391969
@@ -2585,7 +2585,7 @@
       "id": "custom_1778765496565",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.09348321176173613,
         0.08778178841552631
@@ -2600,7 +2600,7 @@
       "id": "custom_1778765525896",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.08068512989552801,
         0.08746555365694064
@@ -2615,7 +2615,7 @@
       "id": "custom_1778765538081",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.13573544703251628,
         0.09534176118272342
@@ -2630,7 +2630,7 @@
       "id": "custom_1778765545162",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.13184163485678368,
         0.1208284842807501
@@ -2645,7 +2645,7 @@
       "id": "custom_1778765552171",
       "name": "急救喷雾",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/first aid spray.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/first aid spray.webp",
       "coordinates": [
         0.1495407811071061,
         0.12932405369694777
@@ -2658,7 +2658,7 @@
       "id": "custom_1778765559660",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.14906675940784453,
         0.10207815995470071
@@ -2673,7 +2673,7 @@
       "id": "custom_1778765585298",
       "name": "武器",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.webp",
       "coordinates": [
         0.5036138422842669,
         0.24546917533918133
@@ -2688,7 +2688,7 @@
       "id": "custom_1778765673060",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.7250163039741722,
         0.41626116266650115
@@ -2703,7 +2703,7 @@
       "id": "custom_1778765736294",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.7230805975235626,
         0.4340046483188189
@@ -2718,7 +2718,7 @@
       "id": "custom_1778765760576",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.6705998343406634,
         0.4814279381693467
@@ -2733,7 +2733,7 @@
       "id": "custom_1778765784453",
       "name": "红草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.webp",
       "coordinates": [
         0.6889890456278351,
         0.5117528639587761
@@ -2748,7 +2748,7 @@
       "id": "custom_1778765793661",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.7044746972329676,
         0.5094946297812442
@@ -2763,7 +2763,7 @@
       "id": "custom_1778765810261",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.7051199327165136,
         0.48529921301177126
@@ -2776,7 +2776,7 @@
       "id": "custom_1778765820750",
       "name": "浣熊玩具",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.webp",
       "coordinates": [
         0.6014608274720956,
         0.39184411375370587
@@ -2791,7 +2791,7 @@
       "id": "custom_1778765826073",
       "name": "霰弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.webp",
       "coordinates": [
         0.6643396723023898,
         0.38627269889477134
@@ -2806,7 +2806,7 @@
       "id": "custom_1778765847116",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.2864276451808223,
         0.17843315377696456
@@ -2821,7 +2821,7 @@
       "id": "custom_1778766022443",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.7426503909446467,
         0.4156065429664437
@@ -2836,7 +2836,7 @@
       "id": "custom_1778766122733",
       "name": "蓝草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.webp",
       "coordinates": [
         0.7374946205262631,
         0.20766761750857654
@@ -2849,7 +2849,7 @@
       "id": "custom_1778766130229",
       "name": "高级火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.webp",
       "coordinates": [
         0.7072160119879243,
         0.23128475684777072
@@ -2862,7 +2862,7 @@
       "id": "custom_1778766138488",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.863838794954944,
         0.22051882856277416
@@ -2877,7 +2877,7 @@
       "id": "custom_1778766147313",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.8390103359537591,
         0.22415223384449234
@@ -2892,7 +2892,7 @@
       "id": "custom_1778766167201",
       "name": "红草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.webp",
       "coordinates": [
         0.8734917242197469,
         0.19858277418337877
@@ -2907,7 +2907,7 @@
       "id": "custom_1778766222838",
       "name": "闪光弹",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/flashbang.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/flashbang.webp",
       "coordinates": [
         0.9141012851293908,
         0.19932394655569396
@@ -2922,7 +2922,7 @@
       "id": "custom_1778766274481",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.8190264543189016,
         0.3131703482734167
@@ -2937,7 +2937,7 @@
       "id": "custom_1778766408182",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.8579059051278648,
         0.2667585970671382
@@ -2952,7 +2952,7 @@
       "id": "custom_1778766437072",
       "name": "钥匙",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/key.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/key.webp",
       "coordinates": [
         0.8564731925032447,
         0.2774712814258038
@@ -2967,7 +2967,7 @@
       "id": "custom_1778769259280",
       "name": "马格南子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/magnum bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/magnum bullet.webp",
       "coordinates": [
         0.884784918611075,
         0.32998474689260604
@@ -2980,7 +2980,7 @@
       "id": "custom_1778769268041",
       "name": "浣熊玩具",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.webp",
       "coordinates": [
         0.8668693653959565,
         0.3304026621341194
@@ -2995,7 +2995,7 @@
       "id": "custom_1778769276884",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.8494507564103344,
         0.34031769968056835
@@ -3010,7 +3010,7 @@
       "id": "custom_1778769309122",
       "name": "高级火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.webp",
       "coordinates": [
         0.8724452978991053,
         0.3710265230565284
@@ -3023,7 +3023,7 @@
       "id": "custom_1778769315536",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.8583208891335232,
         0.3697425125454572
@@ -3038,7 +3038,7 @@
       "id": "custom_1778769325264",
       "name": "蓝草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.webp",
       "coordinates": [
         0.8494463879837326,
         0.4193214374977572
@@ -3053,7 +3053,7 @@
       "id": "custom_1778769331310",
       "name": "打字机",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.webp",
       "coordinates": [
         0.8602001992017279,
         0.3959519885770817
@@ -3068,7 +3068,7 @@
       "id": "custom_1778769769815",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.9180029649445771,
         0.4148620007708246
@@ -3083,7 +3083,7 @@
       "id": "custom_1778769832758",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.9265445648447326,
         0.34105050933921177
@@ -3098,7 +3098,7 @@
       "id": "custom_1778769929033",
       "name": "飞刀",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/dagger.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/dagger.webp",
       "coordinates": [
         0.849448586074601,
         0.2822425535368609
@@ -3113,7 +3113,7 @@
       "id": "custom_1778770502755",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.11852684234324329,
         0.3821490887751793
@@ -3128,7 +3128,7 @@
       "id": "custom_1778770688862",
       "name": "锁闭容器",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.webp",
       "coordinates": [
         0.11398031873980585,
         0.23609379540816633
@@ -3143,7 +3143,7 @@
       "id": "custom_1778770725279",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.15767179256664576,
         0.210075476369326
@@ -3158,7 +3158,7 @@
       "id": "custom_1778771525371",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.796716758955057,
         0.3053789713190156
@@ -3173,7 +3173,7 @@
       "id": "custom_1778771575497",
       "name": "木板",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.webp",
       "coordinates": [
         0.9040555704860935,
         0.37599575087435255
@@ -3188,7 +3188,7 @@
       "id": "custom_1778771596536",
       "name": "闪光弹",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/flashbang.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/flashbang.webp",
       "coordinates": [
         0.8575633664274562,
         0.37451983901500796
@@ -3203,7 +3203,7 @@
       "id": "custom_1778771610989",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.8214027632696741,
         0.4092036849315406
@@ -3218,7 +3218,7 @@
       "id": "custom_1778771626695",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.6715945501904912,
         0.4040380153937093
@@ -3233,7 +3233,7 @@
       "id": "custom_1778771633044",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.6826641225851517,
         0.3368840224736829
@@ -3248,7 +3248,7 @@
       "id": "custom_1778771643598",
       "name": "霰弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.webp",
       "coordinates": [
         0.7948357895220681,
         0.35828480013604747
@@ -3263,7 +3263,7 @@
       "id": "custom_1778771658024",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.7210386402212805,
         0.3545950140734959
@@ -3278,7 +3278,7 @@
       "id": "custom_1778771690597",
       "name": "蓝草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.webp",
       "coordinates": [
         0.6996374669248553,
         0.43208018312785157
@@ -3291,7 +3291,7 @@
       "id": "custom_1778771775158",
       "name": "蓝草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.webp",
       "coordinates": [
         0.8569728054374082,
         0.25201189436403126
@@ -3306,7 +3306,7 @@
       "id": "custom_1778771788369",
       "name": "路标",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/street sign.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/street sign.webp",
       "coordinates": [
         0.821556769797894,
         0.2788529975685634
@@ -3321,7 +3321,7 @@
       "id": "custom_1778771951132",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.7978912450599864,
         0.16855654374103324
@@ -3334,7 +3334,7 @@
       "id": "custom_1778771954536",
       "name": "红草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.webp",
       "coordinates": [
         0.9216557598222437,
         0.34887377726577995
@@ -3347,7 +3347,7 @@
       "id": "custom_1778771963384",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.8995211306467752,
         0.2997764462040493
@@ -3362,7 +3362,7 @@
       "id": "custom_1778771972058",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.8237409197327281,
         0.3460041266719145
@@ -3375,7 +3375,7 @@
       "id": "custom_1778772184347",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.9059368536651391,
         0.5275628163708035
@@ -3390,7 +3390,7 @@
       "id": "custom_1778772220579",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.7525430109603235,
         0.5055321447864998
@@ -3405,7 +3405,7 @@
       "id": "custom_1778772237152",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.7088797480225821,
         0.5818261867548102
@@ -3420,7 +3420,7 @@
       "id": "custom_1778773823431",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.6992108702272901,
         0.547963547122464
@@ -3435,7 +3435,7 @@
       "id": "custom_1778773902041",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.6267640433537736,
         0.5671397388621102
@@ -3450,7 +3450,7 @@
       "id": "custom_1778774034262",
       "name": "墨带",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.webp",
       "coordinates": [
         0.6244123940389557,
         0.5745165003494463
@@ -3465,7 +3465,7 @@
       "id": "custom_1778774048814",
       "name": "打字机",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.webp",
       "coordinates": [
         0.6776393053120557,
         0.5890626934542809
@@ -3480,7 +3480,7 @@
       "id": "custom_1778774174797",
       "name": "钥匙",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/key.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/key.webp",
       "coordinates": [
         0.6580838327056995,
         0.6084662916589707
@@ -3495,7 +3495,7 @@
       "id": "custom_1778775175642",
       "name": "手雷",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/grenade.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/grenade.webp",
       "coordinates": [
         0.17467371223287387,
         0.31556014704399615
@@ -3510,7 +3510,7 @@
       "id": "custom_1778775191766",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.19713209183453273,
         0.2972391005023951
@@ -3525,7 +3525,7 @@
       "id": "custom_1778775231920",
       "name": "墨带",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.webp",
       "coordinates": [
         0.16048947248492595,
         0.22750066316450557
@@ -3540,7 +3540,7 @@
       "id": "custom_1778775249841",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.1610804824744605,
         0.2239546310300966
@@ -3555,7 +3555,7 @@
       "id": "custom_1778775564446",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.2779871213950855,
         0.41290567771305575
@@ -3570,7 +3570,7 @@
       "id": "custom_1778775752963",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.420763886200092,
         0.07385966286263113
@@ -3585,7 +3585,7 @@
       "id": "custom_1778775765380",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.45802559498125106,
         0.11972015720037632
@@ -3600,7 +3600,7 @@
       "id": "custom_1778775770968",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.5511798669348877,
         0.12258643528417679
@@ -3615,7 +3615,7 @@
       "id": "custom_1778775790039",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.4295490465404157,
         0.17279073061179417
@@ -3630,7 +3630,7 @@
       "id": "custom_1778775818015",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.3176878185257692,
         0.1268134037593427
@@ -3645,7 +3645,7 @@
       "id": "custom_1778775882187",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.3544254069350359,
         0.1425609233887286
@@ -3660,7 +3660,7 @@
       "id": "custom_1778775905683",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.19058041853622854,
         0.12092107813192854
@@ -3675,7 +3675,7 @@
       "id": "custom_1778775944812",
       "name": "浣熊玩具",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.webp",
       "coordinates": [
         0.06825592186399376,
         0.2986893795080192
@@ -3690,7 +3690,7 @@
       "id": "custom_1778776286531",
       "name": "高级火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.webp",
       "coordinates": [
         0.6560626392446522,
         0.4078696650376088
@@ -3705,7 +3705,7 @@
       "id": "custom_1778776307037",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.6275895439414967,
         0.39952431017340473
@@ -3720,7 +3720,7 @@
       "id": "custom_1778776342605",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.6275895439425483,
         0.48101385362424764
@@ -3735,7 +3735,7 @@
       "id": "custom_1778776375321",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.6176262256115592,
         0.4188591674468114
@@ -3748,7 +3748,7 @@
       "id": "custom_1778776390437",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.6231778837088768,
         0.45053536080560264
@@ -3761,7 +3761,7 @@
       "id": "custom_1778776425321",
       "name": "墨带",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.webp",
       "coordinates": [
         0.5565579865418897,
         0.4926612172369147
@@ -3776,7 +3776,7 @@
       "id": "custom_1778776450478",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.6052166369222789,
         0.4159201325846027
@@ -3791,7 +3791,7 @@
       "id": "custom_1778776502116",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.6164638203459276,
         0.43545985769982565
@@ -3806,7 +3806,7 @@
       "id": "custom_1778777426129",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.2859054681559883,
         0.24879901880623834
@@ -3821,7 +3821,7 @@
       "id": "custom_1778777582936",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.08045785849688514,
         0.12175514121334174
@@ -3836,7 +3836,7 @@
       "id": "custom_1778777689741",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.48940544608666414,
         0.04524379315364513
@@ -3851,7 +3851,7 @@
       "id": "custom_1778777726313",
       "name": "武器",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.webp",
       "coordinates": [
         0.5121691153476036,
         0.017651473071197188
@@ -3866,7 +3866,7 @@
       "id": "custom_1778777737692",
       "name": "手雷",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/grenade.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/grenade.webp",
       "coordinates": [
         0.5126751466466999,
         0.040861020188614816
@@ -3881,7 +3881,7 @@
       "id": "custom_1778777748076",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.46970674901126586,
         0.03962154781282834
@@ -3896,7 +3896,7 @@
       "id": "custom_1778777768450",
       "name": "钥匙",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/key.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/key.webp",
       "coordinates": [
         0.46791397502016707,
         0.023220843135163705
@@ -3911,7 +3911,7 @@
       "id": "custom_1778777795147",
       "name": "红草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/red grass.webp",
       "coordinates": [
         0.6362791994195902,
         0.10416263215206811
@@ -3926,7 +3926,7 @@
       "id": "custom_1778777810297",
       "name": "蓝草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.webp",
       "coordinates": [
         0.7154073105045597,
         0.04295989480692697
@@ -3941,7 +3941,7 @@
       "id": "custom_1778777827642",
       "name": "浣熊玩具",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.webp",
       "coordinates": [
         0.7128854372324724,
         0.10180355039135236
@@ -3958,7 +3958,7 @@
       "id": "custom_1778777855431",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.8808225892194343,
         0.18634234304740005
@@ -3973,7 +3973,7 @@
       "id": "custom_1778777869979",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.8427955722862635,
         0.16510226219976687
@@ -3988,7 +3988,7 @@
       "id": "custom_1778823114678",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.7311387133429719,
         0.25676148233375784
@@ -4003,7 +4003,7 @@
       "id": "custom_1778823320245",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.8725629075289874,
         0.2215255407383836
@@ -4018,7 +4018,7 @@
       "id": "custom_1778823335889",
       "name": "木板",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/plank.webp",
       "coordinates": [
         0.9088024846018925,
         0.20119616210733682
@@ -4033,7 +4033,7 @@
       "id": "custom_1778823494537",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.7921597015229054,
         0.17583378817506912
@@ -4048,7 +4048,7 @@
       "id": "custom_1778823582753",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.7060996693997481,
         0.1749993104973555
@@ -4063,7 +4063,7 @@
       "id": "custom_1778823638868",
       "name": "打字机",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.webp",
       "coordinates": [
         0.5123319503252901,
         0.25528019476159614
@@ -4078,7 +4078,7 @@
       "id": "custom_1778823725578",
       "name": "冲锋枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/submachine gun bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/submachine gun bullets.webp",
       "coordinates": [
         0.8788423946176636,
         0.329752453239081
@@ -4093,7 +4093,7 @@
       "id": "custom_1778823739675",
       "name": "火弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.webp",
       "coordinates": [
         0.8490291476951768,
         0.4963771304407203
@@ -4108,7 +4108,7 @@
       "id": "custom_1778823905336",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.5111949451766407,
         0.22108066635450996
@@ -4123,7 +4123,7 @@
       "id": "custom_1778823955091",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.8529943042248931,
         0.2969148952747531
@@ -4138,7 +4138,7 @@
       "id": "custom_1778823969935",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.8334220965230372,
         0.2933871061422053
@@ -4153,7 +4153,7 @@
       "id": "custom_1778824007699",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.46705343466734917,
         0.32289608513681856
@@ -4168,7 +4168,7 @@
       "id": "custom_1778824063264",
       "name": "手枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/pistol bullets.webp",
       "coordinates": [
         0.3583151433613523,
         0.202380097152016
@@ -4183,7 +4183,7 @@
       "id": "custom_1778824092400",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.2356664004240372,
         0.22826740318782868
@@ -4198,7 +4198,7 @@
       "id": "custom_1778824174355",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.4934023734714117,
         0.33504620026209864
@@ -4213,7 +4213,7 @@
       "id": "custom_1778824281281",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.1220280973143133,
         0.5406523083198209
@@ -4228,7 +4228,7 @@
       "id": "custom_1778824329741",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.10106626167365107,
         0.35510699139105384
@@ -4243,7 +4243,7 @@
       "id": "custom_1778824406704",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.10494808258303578,
         0.2130341076087774
@@ -4258,7 +4258,7 @@
       "id": "custom_1778825040398",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.1298033519383921,
         0.27751045610590097
@@ -4273,7 +4273,7 @@
       "id": "custom_1778825863248",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.24577678194907548,
         0.356206241377393
@@ -4288,7 +4288,7 @@
       "id": "custom_1778825919465",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.3194785268204612,
         0.5105535658227041
@@ -4303,7 +4303,7 @@
       "id": "custom_1778826202217",
       "name": "武器",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.webp",
       "coordinates": [
         0.27804587189001495,
         0.5279970272288637
@@ -4318,7 +4318,7 @@
       "id": "custom_1778826222056",
       "name": "火弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.webp",
       "coordinates": [
         0.272054365192929,
         0.5273400353185167
@@ -4333,7 +4333,7 @@
       "id": "custom_1778826331555",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.2305041154795049,
         0.3037648523008869
@@ -4348,7 +4348,7 @@
       "id": "custom_1778826345173",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.2898358451017202,
         0.3419060729549841
@@ -4363,7 +4363,7 @@
       "id": "custom_1778826366231",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.2991504723386811,
         0.30796488192903837
@@ -4378,7 +4378,7 @@
       "id": "custom_1778826380606",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.2916222956033039,
         0.21861301338716999
@@ -4393,7 +4393,7 @@
       "id": "custom_1778826493400",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.31310583187823227,
         0.4746548009701286
@@ -4408,7 +4408,7 @@
       "id": "custom_1778826535889",
       "name": "火弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.webp",
       "coordinates": [
         0.23267079724007544,
         0.5399786027161326
@@ -4423,7 +4423,7 @@
       "id": "custom_1778826553333",
       "name": "火弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.webp",
       "coordinates": [
         0.2658827499453196,
         0.5247273198686173
@@ -4438,7 +4438,7 @@
       "id": "custom_1778826565582",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.2644756940773334,
         0.503622333580168
@@ -4453,7 +4453,7 @@
       "id": "custom_1778826600459",
       "name": "火弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.webp",
       "coordinates": [
         0.1078047370642139,
         0.4189609655803963
@@ -4466,7 +4466,7 @@
       "id": "custom_1778826612291",
       "name": "暴君",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Tyrant.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Tyrant.webp",
       "coordinates": [
         0.07913527248865648,
         0.18334539458471966
@@ -4481,7 +4481,7 @@
       "id": "custom_1778826678185",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.46719411122020915,
         0.4539574316160895
@@ -4496,7 +4496,7 @@
       "id": "custom_1778826728873",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.359368023598023,
         0.5102789300444215
@@ -4509,7 +4509,7 @@
       "id": "custom_1778826924706",
       "name": "马格南子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/magnum bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/magnum bullet.webp",
       "coordinates": [
         0.24061439518598604,
         0.4568676966956815
@@ -4524,7 +4524,7 @@
       "id": "custom_1778826934955",
       "name": "冲锋枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/submachine gun bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/submachine gun bullets.webp",
       "coordinates": [
         0.24022124188718408,
         0.4556882742950137
@@ -4537,7 +4537,7 @@
       "id": "custom_1778827168455",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.5617494388421562,
         0.36505394907119637
@@ -4552,7 +4552,7 @@
       "id": "custom_1778827211274",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.7481660010931819,
         0.3542135493814129
@@ -4567,7 +4567,7 @@
       "id": "custom_1778827885694",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.2827728774854563,
         0.19177553342110798
@@ -4582,7 +4582,7 @@
       "id": "custom_1778827984399",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.19039635023031565,
         0.38031032869841397
@@ -4597,7 +4597,7 @@
       "id": "custom_1778828017623",
       "name": "武器",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.webp",
       "coordinates": [
         0.17088270236584435,
         0.44380547506763435
@@ -4612,7 +4612,7 @@
       "id": "custom_1778828408304",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.4073867808121179,
         0.3623184117329288
@@ -4627,7 +4627,7 @@
       "id": "custom_1778828550933",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.5228884522007888,
         0.5333008182112309
@@ -4642,7 +4642,7 @@
       "id": "custom_1778828573477",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.5238228724763871,
         0.5183507240873979
@@ -4657,7 +4657,7 @@
       "id": "custom_1778828691820",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.7898905244800858,
         0.3519966310257132
@@ -4672,7 +4672,7 @@
       "id": "custom_1778828705271",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.7979212796227273,
         0.2165462709225494
@@ -4687,7 +4687,7 @@
       "id": "custom_1778828717968",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.7454536793460989,
         0.27704405714294467
@@ -4702,7 +4702,7 @@
       "id": "custom_1778828733518",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.6560446054029399,
         0.3311170403478201
@@ -4717,7 +4717,7 @@
       "id": "custom_1778828868928",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.6439984525048885,
         0.38759890067925085
@@ -4732,7 +4732,7 @@
       "id": "custom_1778828879419",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.6049154482452082,
         0.4175796436645527
@@ -4747,7 +4747,7 @@
       "id": "custom_1778828895654",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.5212616979755182,
         0.3434084445236323
@@ -4762,7 +4762,7 @@
       "id": "custom_1778828922572",
       "name": "武器",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon.webp",
       "coordinates": [
         0.5042983285607647,
         0.2461965885835582
@@ -4777,7 +4777,7 @@
       "id": "custom_1778829037397",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.838319570659877,
         0.41517103955396806
@@ -4792,7 +4792,7 @@
       "id": "custom_1778829063501",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.5226409610089604,
         0.49761839025218535
@@ -4807,7 +4807,7 @@
       "id": "custom_1778829089630",
       "name": "蓝草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/blue grass.webp",
       "coordinates": [
         0.5296901708411497,
         0.4623735821725603
@@ -4820,7 +4820,7 @@
       "id": "custom_1778829096392",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.4981511694141716,
         0.49845936505214183
@@ -4835,7 +4835,7 @@
       "id": "custom_1778829125155",
       "name": "高级火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/advanced gunpowder.webp",
       "coordinates": [
         0.48358690579945574,
         0.4780043376449896
@@ -4850,7 +4850,7 @@
       "id": "custom_1778829139730",
       "name": "武器配件",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon accessories.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon accessories.webp",
       "coordinates": [
         0.5054926394728909,
         0.4622898856052444
@@ -4865,7 +4865,7 @@
       "id": "custom_1778829160177",
       "name": "地图",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/map.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/map.webp",
       "coordinates": [
         0.5121596018945809,
         0.5446712982412549
@@ -4880,7 +4880,7 @@
       "id": "custom_1778829165871",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.5340653355700056,
         0.541814156910803
@@ -4895,7 +4895,7 @@
       "id": "custom_1778829186570",
       "name": "火弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.webp",
       "coordinates": [
         0.6690368043332171,
         0.3873227847128362
@@ -4908,7 +4908,7 @@
       "id": "custom_1778829224014",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.8193220197109099,
         0.3110293837032003
@@ -4923,7 +4923,7 @@
       "id": "custom_1778829270132",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.719242183000091,
         0.2681531363251253
@@ -4938,7 +4938,7 @@
       "id": "custom_1778829308774",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.752985172378601,
         0.2551381140972495
@@ -4953,7 +4953,7 @@
       "id": "custom_1778829463813",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.6312693718945184,
         0.30888522350984715
@@ -4968,7 +4968,7 @@
       "id": "custom_1778829525066",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.6354747848814952,
         0.3886418075890816
@@ -4983,7 +4983,7 @@
       "id": "custom_1778829600434",
       "name": "暴君",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Tyrant.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Tyrant.webp",
       "coordinates": [
         0.3945416466661129,
         0.333748955201969
@@ -4998,7 +4998,7 @@
       "id": "custom_1778831259278",
       "name": "引导提示",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/guidance tips.webp",
       "coordinates": [
         0.7510044597156877,
         0.3177008109010302
@@ -5013,7 +5013,7 @@
       "id": "custom_1778831355103",
       "name": "路标",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/street sign.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/street sign.webp",
       "coordinates": [
         0.46869843724311977,
         0.5290208014438633
@@ -5028,7 +5028,7 @@
       "id": "custom_1778831378365",
       "name": "路标",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/street sign.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/street sign.webp",
       "coordinates": [
         0.38200416903683276,
         0.5125707967032724
@@ -5043,7 +5043,7 @@
       "id": "custom_1778831403831",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.549055625444737,
         0.5344456676562714
@@ -5056,7 +5056,7 @@
       "id": "custom_1778831414831",
       "name": "打字机",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.webp",
       "coordinates": [
         0.646027337854008,
         0.4434878207776052
@@ -5071,7 +5071,7 @@
       "id": "custom_1778831428496",
       "name": "冲锋枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/submachine gun bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/submachine gun bullets.webp",
       "coordinates": [
         0.6886377456735318,
         0.43099892800078976
@@ -5084,7 +5084,7 @@
       "id": "custom_1778831433872",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.6901070700812113,
         0.47140409226031466
@@ -5097,7 +5097,7 @@
       "id": "custom_1778831438171",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.6342727425928274,
         0.41263287218150424
@@ -5110,7 +5110,7 @@
       "id": "custom_1778831454087",
       "name": "墨带",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.webp",
       "coordinates": [
         0.6240581826010612,
         0.309817584436189
@@ -5125,7 +5125,7 @@
       "id": "custom_1778831467701",
       "name": "钥匙",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/key.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/key.webp",
       "coordinates": [
         0.602018316487829,
         0.27455426055354337
@@ -5140,7 +5140,7 @@
       "id": "custom_1778831472985",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.638751426677544,
         0.2752889142418127
@@ -5153,7 +5153,7 @@
       "id": "custom_1778831506460",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.6455263331452556,
         0.3394963744363082
@@ -5168,7 +5168,7 @@
       "id": "custom_1778831530962",
       "name": "钥匙",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/key.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/key.webp",
       "coordinates": [
         0.622025582558507,
         0.36594082341925116
@@ -5183,7 +5183,7 @@
       "id": "custom_1778831594500",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.7286145819404339,
         0.4674708545945947
@@ -5198,7 +5198,7 @@
       "id": "custom_1778831689614",
       "name": "浣熊玩具",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.webp",
       "coordinates": [
         0.7668322445864817,
         0.43926265742481974
@@ -5213,7 +5213,7 @@
       "id": "custom_1778831909618",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.5887815934045193,
         0.4669625151687029
@@ -5228,7 +5228,7 @@
       "id": "custom_1778831949542",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.7515349273645597,
         0.4962567266155702
@@ -5243,7 +5243,7 @@
       "id": "custom_1778832145128",
       "name": "飞刀",
       "category": "projectile",
-      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/dagger.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/projectile/dagger.webp",
       "coordinates": [
         0.7693394503487525,
         0.2990930541760264
@@ -5256,7 +5256,7 @@
       "id": "custom_1778832371748",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.7817774792592047,
         0.2618524959497819
@@ -5271,7 +5271,7 @@
       "id": "custom_1778832638294",
       "name": "火弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/fire bomb.webp",
       "coordinates": [
         0.8006605623758389,
         0.358105875857035
@@ -5284,7 +5284,7 @@
       "id": "custom_1778832695204",
       "name": "浣熊玩具",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.webp",
       "coordinates": [
         0.8118067200684607,
         0.293042463647069
@@ -5301,7 +5301,7 @@
       "id": "custom_1778833542648",
       "name": "舔食者",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/Licker.webp",
       "coordinates": [
         0.2965924132536202,
         0.36246088847728686
@@ -5316,7 +5316,7 @@
       "id": "custom_1778833649312",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.20110114518305977,
         0.1701988025878336
@@ -5331,7 +5331,7 @@
       "id": "custom_1778833857197",
       "name": "火药（大）",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpowder（big）.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpowder（big）.webp",
       "coordinates": [
         0.08654473145446673,
         0.29802179641831117
@@ -5346,7 +5346,7 @@
       "id": "custom_1779078862257",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.6281302455393813,
         0.7082393903047404
@@ -5359,7 +5359,7 @@
       "id": "custom_1779078888641",
       "name": "打字机",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/typewriter.webp",
       "coordinates": [
         0.44331292031611724,
         0.793366337209477
@@ -5374,7 +5374,7 @@
       "id": "custom_1779078903603",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.4424617024586155,
         0.7780458237146775
@@ -5389,7 +5389,7 @@
       "id": "custom_1779078914218",
       "name": "墨带",
       "category": "checkpoint",
-      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/checkpoint/lnk ribbon.webp",
       "coordinates": [
         0.42032999133652993,
         0.7984731619529839
@@ -5402,7 +5402,7 @@
       "id": "custom_1779078932073",
       "name": "路标",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/street sign.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/street sign.webp",
       "coordinates": [
         0.3792176616824747,
         0.6387175042675466
@@ -5417,7 +5417,7 @@
       "id": "custom_1779078972738",
       "name": "浣熊玩具",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.webp",
       "coordinates": [
         0.550726444687399,
         0.5239959990791903
@@ -5430,7 +5430,7 @@
       "id": "custom_1779078987423",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.3107804134660057,
         0.11682208121638382
@@ -5443,7 +5443,7 @@
       "id": "custom_1779078997842",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.5434553528319555,
         0.17499062461185133
@@ -5458,7 +5458,7 @@
       "id": "custom_1779079008900",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.20462247235286668,
         0.5007294357476297
@@ -5473,7 +5473,7 @@
       "id": "custom_1779079020534",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.30496353995516756,
         0.5603498291781364
@@ -5488,7 +5488,7 @@
       "id": "custom_1779079041671",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.05192954392515503,
         0.6359650580552909
@@ -5503,7 +5503,7 @@
       "id": "custom_1779079075798",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.24266156115041326,
         0.6649902012993039
@@ -5518,7 +5518,7 @@
       "id": "custom_1779079174378",
       "name": "冲锋枪子弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/submachine gun bullets.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/submachine gun bullets.webp",
       "coordinates": [
         0.6392189133992758,
         0.6670793194749365
@@ -5531,7 +5531,7 @@
       "id": "custom_1779079178126",
       "name": "文件",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/document.webp",
       "coordinates": [
         0.5819017676320186,
         0.6660179626806553
@@ -5544,7 +5544,7 @@
       "id": "custom_1779079184739",
       "name": "急救喷雾",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/first aid spray.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/first aid spray.webp",
       "coordinates": [
         0.5373217653678637,
         0.7222695488063096
@@ -5557,7 +5557,7 @@
       "id": "custom_1779079238675",
       "name": "钥匙门",
       "category": "door",
-      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/door/keygate.webp",
       "coordinates": [
         0.6519012603606882,
         0.5866291821476182
@@ -5572,7 +5572,7 @@
       "id": "custom_1779079693011",
       "name": "浣熊玩具",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/raccoon toy.webp",
       "coordinates": [
         0.44152741414305297,
         0.11192315395777541
@@ -5589,7 +5589,7 @@
       "id": "custom_1779107657674",
       "name": "锁闭容器",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.webp",
       "coordinates": [
         0.5907623253474696,
         0.41984970734483795
@@ -5604,7 +5604,7 @@
       "id": "custom_1779107980956",
       "name": "武器配件",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon accessories.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon accessories.webp",
       "coordinates": [
         0.3608964726740851,
         0.29548881514293157
@@ -5619,7 +5619,7 @@
       "id": "custom_1779108296646",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.206059114919924,
         0.2006033847934816
@@ -5632,7 +5632,7 @@
       "id": "custom_1779108309783",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.2088501236266609,
         0.19920788898870967
@@ -5647,7 +5647,7 @@
       "id": "custom_1779110490764",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.7117919621598219,
         0.33785469013055547
@@ -5660,7 +5660,7 @@
       "id": "custom_1779110496807",
       "name": "普通敌人",
       "category": "enemy",
-      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/enemy/enemy.webp",
       "coordinates": [
         0.8055981066946174,
         0.26345774238166086
@@ -5673,7 +5673,7 @@
       "id": "custom_1779111515901",
       "name": "锁闭容器",
       "category": "collection",
-      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/collection/locked container.webp",
       "coordinates": [
         0.6165169675448965,
         0.5818660307951689
@@ -5688,7 +5688,7 @@
       "id": "custom_1779111572681",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.7681078867977646,
         0.3999686174436192
@@ -5703,7 +5703,7 @@
       "id": "custom_1779111586966",
       "name": "绿草",
       "category": "medicine",
-      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/medicine/green grass.webp",
       "coordinates": [
         0.8328590005569367,
         0.4329455174462993
@@ -5716,7 +5716,7 @@
       "id": "custom_1779111600091",
       "name": "重要道具",
       "category": "puzzle item",
-      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/puzzle item/important props.webp",
       "coordinates": [
         0.8953204559995527,
         0.36387756633702395
@@ -5731,7 +5731,7 @@
       "id": "custom_1779111608907",
       "name": "火药",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/gunpoweder.webp",
       "coordinates": [
         0.871407552303765,
         0.3240234456861657
@@ -5744,7 +5744,7 @@
       "id": "custom_1779113419737",
       "name": "武器配件",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon accessories.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon accessories.webp",
       "coordinates": [
         0.6559986472943535,
         0.2056799927697739
@@ -5759,7 +5759,7 @@
       "id": "custom_1779113438431",
       "name": "武器配件",
       "category": "weapon",
-      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon accessories.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/weapon/Weapon accessories.webp",
       "coordinates": [
         0.6557926531113196,
         0.20284557276428927
@@ -5774,7 +5774,7 @@
       "id": "custom_1779119224394",
       "name": "机关",
       "category": "tip",
-      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/tip/mechanisms.webp",
       "coordinates": [
         0.8708698383982494,
         0.28268114574071035
@@ -5789,7 +5789,7 @@
       "id": "custom_1779123765983",
       "name": "霰弹",
       "category": "bullet",
-      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.png",
+      "icon": "./re2_map_sewer_ui/loot%20ping/bullet/shotgun bullet.webp",
       "coordinates": [
         0.8453688318956551,
         0.49750202515227215

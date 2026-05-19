@@ -10,12 +10,12 @@ import MarkerEditModal from './MarkerEditModal'
 // 楼层图片映射
 const BASE_PATH = import.meta.env.PROD ? './' : '/'
 const FLOOR_IMAGES: Record<string, string> = {
-  'B1': `${BASE_PATH}re2_p_station_map/re2_p_station_B1.png`,
-  'B2': `${BASE_PATH}re2_p_station_map/re2_p_station_B2.png`,
-  'B3': `${BASE_PATH}re2_p_station_map/re2_p_station_B1.png`,
-  '1F': `${BASE_PATH}re2_p_station_map/re2_p_station_1F.png`,
-  '2F': `${BASE_PATH}re2_p_station_map/re2_p_station_2F.png`,
-  '3F': `${BASE_PATH}re2_p_station_map/re2_p_station_3F.png`,
+  'B1': `${BASE_PATH}re2_p_station_map/re2_p_station_B1.webp`,
+  'B2': `${BASE_PATH}re2_p_station_map/re2_p_station_B2.webp`,
+  'B3': `${BASE_PATH}re2_p_station_map/re2_p_station_B1.webp`,
+  '1F': `${BASE_PATH}re2_p_station_map/re2_p_station_1F.webp`,
+  '2F': `${BASE_PATH}re2_p_station_map/re2_p_station_2F.webp`,
+  '3F': `${BASE_PATH}re2_p_station_map/re2_p_station_3F.webp`,
   'o_1F': `${BASE_PATH}re2_map_sewer/re2_orphanage_1F.png`,
   'o_2F': `${BASE_PATH}re2_map_sewer/re2_orphanage_2F.png`,
 }
