@@ -11,11 +11,11 @@ import MarkerEditModal from './MarkerEditModal'
 const BASE_PATH = import.meta.env.PROD ? './' : '/'
 const FLOOR_IMAGES: Record<string, string> = {
   'B1': `${BASE_PATH}re2_p_station_map/re2_p_station_B1.png`,
-  'B2': `${BASE_PATH}re2_map_sewer/re2_p_station_B2.png`,
-  'B3': `${BASE_PATH}re2_map_sewer/re2_p_station_B1.png`,
-  '1F': `${BASE_PATH}re2_map_sewer/re2_p_station_1F.png`,
-  '2F': `${BASE_PATH}re2_map_sewer/re2_p_station_2F.png`,
-  '3F': `${BASE_PATH}re2_map_sewer/re2_p_station_3F.png`,
+  'B2': `${BASE_PATH}re2_p_station_map/re2_p_station_B2.png`,
+  'B3': `${BASE_PATH}re2_p_station_map/re2_p_station_B1.png`,
+  '1F': `${BASE_PATH}re2_p_station_map/re2_p_station_1F.png`,
+  '2F': `${BASE_PATH}re2_p_station_map/re2_p_station_2F.png`,
+  '3F': `${BASE_PATH}re2_p_station_map/re2_p_station_3F.png`,
   'o_1F': `${BASE_PATH}re2_map_sewer/re2_orphanage_1F.png`,
   'o_2F': `${BASE_PATH}re2_map_sewer/re2_orphanage_2F.png`,
 }
@@ -319,7 +319,7 @@ export default function Map() {
     wrapper.appendChild(img)
 
     // 创建临时标点
-    const marker = new maplibregl.Marker({
+    new maplibregl.Marker({
       element: wrapper,
       anchor: 'bottom',
     })
@@ -938,8 +938,8 @@ export default function Map() {
         const el = document.createElement('div')
         el.className = 'waypoint-marker'
         el.style.cssText = `
-          width: 16px;
-          height: 16px;
+          width: 10px;
+          height: 10px;
           background-color: ${route.color};
           border: 2px solid white;
           border-radius: 50%;
